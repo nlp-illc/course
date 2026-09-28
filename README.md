@@ -3,7 +3,7 @@
 1. Create your github (public) repo `COURSE` (you pick the name, ofc) within `nlp-illc`.
 2. Download the content of this repo (but not its git history; either download a zip file, uncompress it, then recursive-copy all of the files and directories into your own new repo, or do it via command line as in the example below).
 3. Edit `_config.yaml` (esp the attribute `baseurl` which should be the same as your new repo's name); and edit everything else that's relevant (see the rest of the README). 
-4. Make your repo public; on GitHub navigate to Settings/Pages, change the `default branch` to main and save it.
+4. Make your repo public; on GitHub navigate to Settings/Pages, change the _Build and deployment_ branch to `main` and save it.
 
 Example: first, create the public repo COURSE on github under `nlp-illc`, then continue with the example.
 
